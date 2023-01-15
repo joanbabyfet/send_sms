@@ -10,9 +10,14 @@
 
 ## Requires
 Python 3.11.0  
-messagebird 2.1.0
-configparser 5.3.0
-pandas 1.5.2
+messagebird 2.1.0  
+configparser 5.3.0  
+pandas 1.5.2  
+
+## Usage
+```
+python main.py
+```
 
 ## Change Log
 v1.0.0
